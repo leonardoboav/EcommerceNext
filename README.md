@@ -46,8 +46,6 @@ This is a Ecommerce Template, designed using NextJs, React, Tailwind, Prisma and
 2. Instagram - [@leobvnt](https://www.instagram/leobvnt/ "Leonardo Boaventura on Instagram")
 
 
-====================================================================
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
