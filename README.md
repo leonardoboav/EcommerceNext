@@ -1,9 +1,6 @@
 # Ecommerce Store + CMS
 This is a Ecommerce Template, designed using NextJs, React, Tailwind, Prisma and MySQL. It was developed while I was studying "Full Stack E-Commerce + Dashboard & CMS".
 
-**Access the Video Here** - 
-[Full Stack E-Commerce + Dashboard & CMS]([https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW](https://www.youtube.com/watch?v=5miHyP6lExg&t=7516s))
-
 ## Support Developer
 1. Subscribe and Follow my Github Channel - https://github.com/leonardoboav
 2. Add a Star 🌟  to this 👆 Repository
